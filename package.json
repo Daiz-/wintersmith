@@ -41,9 +41,6 @@
     "server-destroy": "1.0.x",
     "npm": "1.2.x"
   },
-  "devDependencies": {
-    "shelljs": "0.1.x"
-  },
   "engine": {
     "node": ">=0.6"
   }
